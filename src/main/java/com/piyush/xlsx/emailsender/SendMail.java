@@ -87,7 +87,7 @@ public class SendMail {
         String host = "smtp.gmail.com";
         String port = "587";
         String mailFrom = "pm31121988@gmail.com";
-        String password = "Sweetls2607@";
+        String password = "xxx";
  
         // message info
        // String mailTo = "mr.piyushmittal@rediffmail.com"; 
